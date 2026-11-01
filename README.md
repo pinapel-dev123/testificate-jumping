@@ -1,2 +1,1 @@
-# testificate-jumping
-A platformer jumper game. created 4 testing godot
+# Just download the zip and extract to your godot project folder and run it.
